@@ -1,0 +1,4 @@
+﻿  ProjectLTECalc.cpp
+C:\Users\TF\source\repos\ProjectLTECalc\ProjectLTECalc\ProjectLTECalc.cpp(52,10): warning C4476: "printf": неизвестный символ поля типа "\xd0" в описателе формата
+C:\Users\TF\source\repos\ProjectLTECalc\ProjectLTECalc\ProjectLTECalc.cpp(52,10): warning C4476: "printf": неизвестный символ поля типа ")" в описателе формата
+  ProjectLTECalc.vcxproj -> C:\Users\TF\source\repos\ProjectLTECalc\Debug\ProjectLTECalc.exe
