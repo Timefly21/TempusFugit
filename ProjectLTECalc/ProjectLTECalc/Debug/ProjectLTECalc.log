@@ -1,7 +1,7 @@
 ﻿  ProjectLTECalc.cpp
 C:\Users\TF\source\repos\ProjectLTECalc\ProjectLTECalc\ProjectLTECalc.cpp(8,6): warning C4101: i: неиспользованная локальная переменная
-C:\Users\TF\source\repos\ProjectLTECalc\ProjectLTECalc\ProjectLTECalc.cpp(120,9): warning C4476: "printf": неизвестный символ поля типа "\xd0" в описателе формата
-C:\Users\TF\source\repos\ProjectLTECalc\ProjectLTECalc\ProjectLTECalc.cpp(120,9): warning C4476: "printf": неизвестный символ поля типа ")" в описателе формата
-C:\Users\TF\source\repos\ProjectLTECalc\ProjectLTECalc\ProjectLTECalc.cpp(123,9): warning C4244: return: преобразование "float" в "int", возможна потеря данных
-C:\Users\TF\source\repos\ProjectLTECalc\ProjectLTECalc\ProjectLTECalc.cpp(129,7): warning C4101: num: неиспользованная локальная переменная
+C:\Users\TF\source\repos\ProjectLTECalc\ProjectLTECalc\ProjectLTECalc.cpp(121,9): warning C4476: "printf": неизвестный символ поля типа "\xd0" в описателе формата
+C:\Users\TF\source\repos\ProjectLTECalc\ProjectLTECalc\ProjectLTECalc.cpp(121,9): warning C4476: "printf": неизвестный символ поля типа ")" в описателе формата
+C:\Users\TF\source\repos\ProjectLTECalc\ProjectLTECalc\ProjectLTECalc.cpp(124,9): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\TF\source\repos\ProjectLTECalc\ProjectLTECalc\ProjectLTECalc.cpp(130,7): warning C4101: num: неиспользованная локальная переменная
   ProjectLTECalc.vcxproj -> C:\Users\TF\source\repos\ProjectLTECalc\Debug\ProjectLTECalc.exe

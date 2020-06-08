@@ -1,0 +1,12 @@
+﻿  ProjectLTECalc.cpp
+C:\Users\TF\source\repos\ProjectLTECalc\ProjectLTECalc\ProjectLTECalc.cpp(8,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\TF\source\repos\ProjectLTECalc\ProjectLTECalc\ProjectLTECalc.cpp(121,9): warning C4476: "printf": неизвестный символ поля типа "\xd0" в описателе формата
+C:\Users\TF\source\repos\ProjectLTECalc\ProjectLTECalc\ProjectLTECalc.cpp(121,9): warning C4476: "printf": неизвестный символ поля типа ")" в описателе формата
+C:\Users\TF\source\repos\ProjectLTECalc\ProjectLTECalc\ProjectLTECalc.cpp(124,9): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\TF\source\repos\ProjectLTECalc\ProjectLTECalc\ProjectLTECalc.cpp(130,7): warning C4101: num: неиспользованная локальная переменная
+  Создание кода
+  1 of 25 functions ( 4.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ProjectLTECalc.vcxproj -> C:\Users\TF\source\repos\ProjectLTECalc\Release\ProjectLTECalc.exe
