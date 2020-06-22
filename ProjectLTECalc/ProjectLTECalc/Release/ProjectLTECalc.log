@@ -7,6 +7,6 @@ C:\Users\TF\source\repos\ProjectLTECalc\ProjectLTECalc\ProjectLTECalc.cpp(130,7)
   Создание кода
   1 of 25 functions ( 4.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+    5 functions had inline decision re-evaluated but remain unchanged
   Создание кода завершено
   ProjectLTECalc.vcxproj -> C:\Users\TF\source\repos\ProjectLTECalc\Release\ProjectLTECalc.exe
